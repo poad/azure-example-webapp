@@ -81,6 +81,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@next/font@npm:^13":
+  version: 13.1.5
+  resolution: "@next/font@npm:13.1.5"
+  checksum: f3e8425ca77e1c6f08153c0fe91ee6bac37b67487bb5c6c69624bd3c1901184a3db4bd9281abf4bce6dbc4d42bd744bdc160dd82660de92b1b7e743f6e120295
+  languageName: node
+  linkType: hard
+
 "@next/swc-android-arm-eabi@npm:13.1.5":
   version: 13.1.5
   resolution: "@next/swc-android-arm-eabi@npm:13.1.5"
@@ -1980,7 +1987,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"json5@npm:>=2.2.2":
+"json5@npm:>=2.2.3":
   version: 2.2.3
   resolution: "json5@npm:2.2.3"
   bin:
@@ -2159,6 +2166,7 @@ __metadata:
   resolution: "next-ts-minimal-template@workspace:."
   dependencies:
     "@next/bundle-analyzer": ^13
+    "@next/font": ^13
     "@types/node": "*"
     "@types/react": "*"
     "@typescript-eslint/eslint-plugin": "*"

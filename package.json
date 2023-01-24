@@ -18,6 +18,7 @@
     "all": "yarn lint && yarn build && yarn test && yarn export"
   },
   "dependencies": {
+    "@next/font": "^13",
     "next": "^13",
     "react": "*",
     "react-dom": "*",
@@ -50,7 +51,7 @@
     "typescript": "*"
   },
   "resolutions": {
-    "json5": ">=2.2.2"
+    "json5": ">=2.2.3"
   },
   "packageManager": "yarn@3.3.1"
 }
