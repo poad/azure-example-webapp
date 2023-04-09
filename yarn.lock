@@ -2148,9 +2148,9 @@ __metadata:
   linkType: hard
 
 "minipass@npm:^4.0.2, minipass@npm:^4.2.4":
-  version: 4.2.5
-  resolution: "minipass@npm:4.2.5"
-  checksum: 4f9c19af23a5d4a9e7156feefc9110634b178a8cff8f8271af16ec5ebf7e221725a97429952c856f5b17b30c2065ebd24c81722d90c93d2122611d75b952b48f
+  version: 4.2.6
+  resolution: "minipass@npm:4.2.6"
+  checksum: 484e55ab229b85b66411b5c816d2a93db9c3e3cd3b2c1546bdb7cf25788d820bc139f2c6b29a38b5df0ffa14712d618e0cbba45ba26c1bc55d66670a2d30f7eb
   languageName: node
   linkType: hard
 
