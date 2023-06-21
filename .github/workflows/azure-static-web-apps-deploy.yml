@@ -39,7 +39,7 @@ jobs:
           check-latest: true
 
       # Next.js 13.x は未対応なのか、.next 内に index.html が無いと怒られるため、事前に export まで行なっておく
-      - run: pnpm build && pnpm export
+      - run: pnpm build
 
       - name: Deploy
         id: builddeploy

@@ -6,7 +6,6 @@
     "test": "echo ''",
     "dev": "next dev --turbo",
     "build": "next build",
-    "export": "next export",
     "start": "next start",
     "elint-check": "next lint --ext .ts,.js,.tsx,.jsx src",
     "elint-fix": "next lint --fix --ext .ts,.js,.tsx,.jsx src",
@@ -15,7 +14,7 @@
     "lint": "pnpm prettier-check && pnpm elint-check",
     "lint-fix": "pnpm prettier-format && pnpm elint-fix",
     "clean": "rimraf build",
-    "all": "pnpm lint && pnpm build && pnpm test && pnpm export"
+    "all": "pnpm lint && pnpm build && pnpm test"
   },
   "dependencies": {
     "@next/font": "^13.4.6",
