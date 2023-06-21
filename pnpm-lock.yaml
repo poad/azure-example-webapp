@@ -19,8 +19,8 @@ dependencies:
 
 devDependencies:
   '@next/bundle-analyzer':
-    specifier: ^13.4.6
-    version: 13.4.6
+    specifier: ^13.4.7
+    version: 13.4.7
   '@types/node':
     specifier: ^20.3.1
     version: 20.3.1
@@ -431,8 +431,8 @@ packages:
       '@jridgewell/resolve-uri': 3.1.0
       '@jridgewell/sourcemap-codec': 1.4.14
 
-  /@next/bundle-analyzer@13.4.6:
-    resolution: {integrity: sha512-HqqQxZ4y71az1TYCKILmJXjjY/645/21q/EUVFCGIzKkST+DrvgcJcBpWwlnI0wAuMRbdxvN1FMi7jSlSUIByw==}
+  /@next/bundle-analyzer@13.4.7:
+    resolution: {integrity: sha512-cIcU07u6WdDUF1nrFYOSPvx/pie8euxSnWB1Y/XMYj2g5ls+iyaDr/ChyZugD5hNW754x0NFy1CwzpObA0bffQ==}
     dependencies:
       webpack-bundle-analyzer: 4.7.0
     transitivePeerDependencies:
