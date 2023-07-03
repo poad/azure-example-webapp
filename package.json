@@ -48,5 +48,6 @@
     "rimraf": "^5.0.1",
     "swc-loader": "^0.2.3",
     "typescript": "^5.1.6"
-  }
+  },
+  "packageManager": "yarn@3.6.1"
 }
