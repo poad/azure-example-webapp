@@ -25,11 +25,11 @@
   },
   "devDependencies": {
     "@next/bundle-analyzer": "^13.5.6",
-    "@types/node": "^20.8.10",
-    "@types/react": "^18.2.33",
+    "@types/node": "^20.10.3",
+    "@types/react": "^18.2.42",
     "@typescript-eslint/eslint-plugin": "^5.62.0",
     "@typescript-eslint/parser": "^5.62.0",
-    "eslint": "^8.52.0",
+    "eslint": "^8.55.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-config-airbnb-typescript": "^17.1.0",
     "eslint-config-import": "^0.13.0",
@@ -39,7 +39,7 @@
     "eslint-plugin-flowtype": "^8.0.3",
     "eslint-plugin-import": "^2.29.0",
     "eslint-plugin-jest": "^27.6.0",
-    "eslint-plugin-jsx-a11y": "^6.7.1",
+    "eslint-plugin-jsx-a11y": "^6.8.0",
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.33.2",
     "eslint-plugin-react-hooks": "^4.6.0",
@@ -47,6 +47,6 @@
     "prettier": "^2.8.8",
     "rimraf": "^5.0.5",
     "swc-loader": "^0.2.3",
-    "typescript": "^5.2.2"
+    "typescript": "^5.3.2"
   }
 }
