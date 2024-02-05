@@ -46,7 +46,7 @@
     "next-transpile-modules": "^10.0.1",
     "prettier": "^2.8.8",
     "rimraf": "^5.0.5",
-    "swc-loader": "^0.2.4",
+    "swc-loader": "^0.2.6",
     "typescript": "^5.3.3"
   }
 }
